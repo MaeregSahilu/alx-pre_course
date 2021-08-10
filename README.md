@@ -1,3 +1,3 @@
 Lesson 0: Creating a git repository
 
-This is the readme file for the repository.
+This is the updated readme file for the github repository.
